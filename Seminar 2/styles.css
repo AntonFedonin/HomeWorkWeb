@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+h1 {
+    color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+
+p1 {
+    color: rgb(33, 3, 60);
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+p2 {
+    color: rgb(33, 3, 60);
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.header {
+    height: 150px;
+    background-color: beige;
+}
+
+.footer {
+    height: 150px;
+    background-color: rgb(110, 110, 96);
+}
+
+.block {
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 10px;
+
+
+}
+
+.content {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    background-color: beige;
+    color: black;
+    text-align: center;
+    line-height: 40px;
+    margin: auto;
+}
+
+.button:hover {
+    background-color: rgb(238, 245, 242);
+    color: rgb(9, 8, 11);
+    border: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.page10 {
+    background: url(img/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page11 {
+    background: url(img/20.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page12 {
+    background: url(img/22.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page20 {
+    background: url(img/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page21 {
+    background: url(img/12.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page22 {
+    background: url(img/13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page30 {
+    background: url(img/21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page31 {
+    background: url(img/22.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page32 {
+    background: url(img/23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
